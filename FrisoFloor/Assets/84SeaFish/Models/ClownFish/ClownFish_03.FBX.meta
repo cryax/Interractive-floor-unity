@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 5061236153707024d9b60e0a98460874
+timeCreated: 1463597258
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bone_ClownFish_0300
+    100002: bone_ClownFish_0301
+    100004: bone_ClownFish_0302
+    100006: bone_ClownFish_0303
+    100008: bone_ClownFish_0304
+    100010: bone_ClownFish_0305
+    100012: bone_ClownFish_0306
+    100014: bone_ClownFish_0307
+    100016: //RootNode
+    100018: ClownFish_03
+    400000: bone_ClownFish_0300
+    400002: bone_ClownFish_0301
+    400004: bone_ClownFish_0302
+    400006: bone_ClownFish_0303
+    400008: bone_ClownFish_0304
+    400010: bone_ClownFish_0305
+    400012: bone_ClownFish_0306
+    400014: bone_ClownFish_0307
+    400016: //RootNode
+    400018: ClownFish_03
+    4300000: ClownFish_03
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ClownFish_03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone_ClownFish_0300
+        weight: 1
+      - path: bone_ClownFish_0300/bone_ClownFish_0301
+        weight: 1
+      - path: bone_ClownFish_0300/bone_ClownFish_0301/bone_ClownFish_0302
+        weight: 1
+      - path: bone_ClownFish_0300/bone_ClownFish_0303
+        weight: 1
+      - path: bone_ClownFish_0300/bone_ClownFish_0303/bone_ClownFish_0304
+        weight: 1
+      - path: bone_ClownFish_0300/bone_ClownFish_0305
+        weight: 1
+      - path: bone_ClownFish_0300/bone_ClownFish_0305/bone_ClownFish_0306
+        weight: 1
+      - path: bone_ClownFish_0300/bone_ClownFish_0307
+        weight: 1
+      - path: ClownFish_03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

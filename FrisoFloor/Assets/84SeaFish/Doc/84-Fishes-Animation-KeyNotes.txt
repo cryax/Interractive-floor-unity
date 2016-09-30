@@ -1,0 +1,26 @@
+﻿Following is key frame of fish animations. If you have any question, please contact souchenki@gmail.com. Thanks for Purchase!
+
+Angel Fish: 0-30
+Arowana Fish: 0 -36
+Candy Bassle: 0 - 38
+Cardinal Fish: 0 - 44
+Clown Fish: 0 - 26
+ClownTriger: 0 - 48
+Extrallias Brevis: 0 -48
+FlowerHorn: 0 - 50
+GemTang: 0 - 30
+Guppy: 0 - 60
+Koi Fish: 0 - 40
+LionFish: 0 - 46
+Mandarin: 0 -44
+MoorFish: 0 - 40
+ParrotFish: 0 - 48
+Pinecone: 0 - 30
+PufferFish: Swim:0-32, Spherify:33-46
+Queen_Trigger_Fish: 0-36
+StingRay_01: swim1: 0-60   Swim2: 61-121
+StingRay_02: swim1: 0-54   Swim2: 55-120
+Surgeon_Fish_01: 0-30
+Symphysodem_01: 0-36
+TangFish_01: 0-28
+Wrasse_Fish_03: 0-36
